@@ -4,3 +4,8 @@ pydantic
 scikit-learn
 numpy
 pandas
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
